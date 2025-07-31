@@ -12,3 +12,9 @@ Later versions would add:
 - A win-checker in order to automatically determine the winner of any game.
   
 - A betting system.
+
+### Files
+
+Tidy Poker Sim.ipynb: contains the current version and aims to be mostly free of working clutter
+
+Working Poker Sim.ipynb: Is the extra file I created so I wouldn't mess up my main file, before I understood how Git worked. Will be tidied and deleted soon.
