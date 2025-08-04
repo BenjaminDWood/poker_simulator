@@ -7,6 +7,9 @@ Version 2 has focused on the setup of the game, allowing for more user-friendly 
 This is very much a side project that has helped me get to grips with certain elements of coding in Python. As such, any further work will be sparse for the foreseeable future.
 
 
+![Working version 2 of simulator](./pokersimgif.gif)
+
+
 Later versions would add:
 
 - A win-checker in order to automatically determine the winner of any game.
